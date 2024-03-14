@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://radion.fr/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Radion'
 theme = 'hugo-coder'
