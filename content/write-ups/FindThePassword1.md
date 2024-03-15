@@ -7,9 +7,10 @@ tags = ['crackme','reverse']
 +++
 
 # Challenge description
-Title | Platform | Language | Difficulty
---- | --- | --- | ---
-FindThePassword1 | Unix/Linux | Assembler | 1.0
+
+| Title | Platform | Language | Difficulty |
+| --- | --- | --- | --- |
+| FindThePassword1 | Unix/Linux | Assembler | 1.0 |
 
 If you aren't a _beginner_, you will get bored very quickly. If you are a beginner, this will help you grasp basic concepts.
 
