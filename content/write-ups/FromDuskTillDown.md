@@ -9,7 +9,7 @@ tags = ['ecw','misc']
 # Challenge description
 This challenge was part of the European Cyber Week Qualification.
 
-![FDTD](img/ecw-fdtd.png)
+![FDTD](/ecw/ecw-fdtd.png)
 
 This goal of this challenge is to find the next number which must be print.
 
