@@ -97,4 +97,4 @@ Password: 8675309
 + *** *** *** *** *** +
 ```
 
-That's all falks
+That's All Falks
