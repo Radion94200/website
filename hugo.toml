@@ -15,13 +15,13 @@ style = "github-dark"
   author = "Radion"
   info = "DFIR analyst and Incident Response at CERT La Poste"
   description = "Radion's personal website"
-  keywords = "blog,developer,personal"
+  keywords = "blog,cybersecurity,reverse,forensic"
   avatarurl = "img/avatar.jpg"
-  #gravatar = "john.doe@example.com"
+#  gravatar = "john.doe@example.com"
 
-  faviconSVG = "/img/favicon.svg"
-  favicon_32 = "/img/favicon-32x32.png"
-  favicon_16 = "/img/favicon-16x16.png"
+#  faviconSVG = "/img/favicon.svg"
+#  favicon_32 = "/img/favicon-32x32.png"
+#  favicon_16 = "/img/favicon-16x16.png"
 
   since = 2020
 
