@@ -9,7 +9,7 @@ tags = ['ecw','misc']
 # Challenge description
 This challenge was part of the European Cyber Week Qualification.
 
-![FDTD](/ecw/ecw-fdtd.png "From Dusk Till Down Challenge"){:.centered}
+![FDTD](/ecw/ecw-fdtd.png "From Dusk Till Down Challenge"){:style="display:block; margin-left:auto; margin-right:auto"}
 
 This goal of this challenge is to find the next number which must be print.
 
