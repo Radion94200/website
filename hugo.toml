@@ -1,5 +1,4 @@
 baseURL = 'https://radion.fr/'
-languageCode = 'en-us'
 title = "Radion's Blog"
 theme = 'hugo-coder'
 languagecode = "en"
@@ -66,7 +65,7 @@ style = "github-dark"
 [[menu.main]]
   name = "Write-Ups"
   weight = 2
-  url = "Write-Ups/"
+  url = "write-ups/"
 [[menu.main]]
   name = "About"
   weight = 3
