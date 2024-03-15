@@ -1,13 +1,13 @@
 +++
 title = 'About Me'
-date = 2024-03-15
+date = 2020-03-03
 draft = false
 categories = ['about']
 +++
 
-Currenlty, I work as DFIR analyst and IR in CERT La Poste.
+I am currently working as DFIR analyst and IR in CERT La Poste.
 
 During my free time, I improve my personal skills praticing Root-Me and Hack The Box challenges.
-I do lots of ctf alone or with some friends and with the team [HackInProvence](https://www.hackinprovence.fr/).
+I practice lots of ctf alone, with some friends or with the team [HackInProvence](https://www.hackinprovence.fr/).
 
 Special thanks to hugo. It permits me to develop this website with love.
