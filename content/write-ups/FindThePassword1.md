@@ -2,8 +2,8 @@
 title = 'FindThePassword1'
 date = 2024-03-15
 draft = false
-tags = [CrackMe, Reverse]
-categories = [CrackMe]
+categories = [crackme]
+tags = [crackme, reverse]
 +++
 
 # Introuction
