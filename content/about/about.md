@@ -1,6 +1,9 @@
-
-
-# ABOUT ME
++++
+title = 'About Me'
+date = 2024-03-15
+draft = false
+categories = ['about']
++++
 
 Currenlty, I work as DFIR analyst and IR in CERT La Poste.
 
