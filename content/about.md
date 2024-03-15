@@ -7,7 +7,7 @@ categories = ['about']
 
 I am currently working as DFIR analyst and IR in CERT La Poste.
 
-During my free time, I improve my personal skills praticing Root-Me and Hack The Box challenges.
+During my free time, I improve my personal skills praticing Root-Me, Hack The Box and Try hack Me challenges.  
 I practice lots of ctf alone, with some friends or with the team [HackInProvence](https://www.hackinprovence.fr/).
 
-Special thanks to hugo. It permits me to develop this website with love.
+Special thanks to hugo. It permits me to develop this website with love <3.
