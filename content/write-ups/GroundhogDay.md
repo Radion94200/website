@@ -1,7 +1,7 @@
 +++
 title = 'Groundhog Day'
 date = 2020-11-03
-draft = flase
+draft = false
 categories = ['ctf']
 tags = ['ecw','misc']
 +++
