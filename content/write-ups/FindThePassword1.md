@@ -9,14 +9,10 @@ tags = ['crackme','reverse']
 # Challenge description
 
 {{< bootstrap-table table_class="table table-striped table-hover" thead_class="table-dark" >}}
-| a | b |
-|---|---|
-| c | d |
+| Title | Platform | Language | Difficulty |
+| :---: | :---: | :---: | :---: |
+| FindThePassword1 | Unix/Linux | Assembler | 1.0 |
 {{< /bootstrap-table >}}
-
-# | Title | Platform | Language | Difficulty |  
-# | --- | --- | --- | --- |  
-# | FindThePassword1 | Unix/Linux | Assembler | 1.0 |  
 
 If you aren't a _beginner_, you will get bored very quickly. If you are a beginner, this will help you grasp basic concepts.
 
