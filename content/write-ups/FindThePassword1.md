@@ -8,11 +8,11 @@ tags = ['crackme','reverse']
 
 # Challenge description
 
-{{% classify "toto" %}}
+{{< bootstrap-table table_class="table table-striped table-hover" thead_class="table-dark" >}}
 | a | b |
 |---|---|
 | c | d |
-{{% /classify %}}
+{{< /bootstrap-table >}}
 
 # | Title | Platform | Language | Difficulty |  
 # | --- | --- | --- | --- |  
