@@ -17,7 +17,7 @@ style = "github-dark"
   info = "DFIR analyst and Incident Response at CERT La Poste"
   description = "Radion's personal website"
   keywords = "blog,developer,personal"
-  avatarurl = "images/avatar.jpg"
+  avatarurl = "img/avatar.jpg"
   #gravatar = "john.doe@example.com"
 
   faviconSVG = "/img/favicon.svg"
@@ -48,10 +48,10 @@ style = "github-dark"
   weight = 1
   url = "https://github.com/Radion94200"
 [[params.social]]
-  name = "Gitlab"
-  icon = "fa-brands fa-gitlab fa-2x"
+  name = "LinkedIn"
+  icon = "fa-brands fa-linkedin fa-2x"
   weight = 2
-  url = "https://gitlab.com/johndoe/"
+  url = "https://www.linkedin.com/in/dznl/"
 [[params.social]]
   name = "X"
   icon = "fa-brands fa-x-twitter fa-2x"
@@ -64,6 +64,10 @@ style = "github-dark"
   weight = 1
   url  = "posts/"
 [[menu.main]]
-  name = "About"
+  name = "Write-Ups"
   weight = 2
+  url = "Write-Ups/"
+[[menu.main]]
+  name = "About"
+  weight = 3
   url = "about/"
