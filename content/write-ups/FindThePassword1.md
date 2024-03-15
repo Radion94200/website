@@ -6,17 +6,13 @@ categories = ['crackme']
 tags = ['crackme','reverse']
 +++
 
-# Introuction
+# Challenge description
 
-I have the goal to level up in static reverse.
-I use crackme to improve them step by step.
-For this challenge I won't do static analysis.
+| --- | --- | --- | --- | ---|
+| Title | Platform | Language | Difficulty |
+| FindThePassword1 | Unix/Linux | Assembler | 1.0 |
 
-So this is a simple crack me to start.
-
-- title: FindThePassword1
-- language: asm
-- difficulty: 1
+If you aren't a _beginner_, you will get bored very quickly. If you are a beginner, this will help you grasp basic concepts.
 
 # Solution
 
