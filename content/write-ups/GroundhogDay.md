@@ -10,7 +10,7 @@ tags = ['ecw','misc']
 
 This challenge was part of the European Cyber Week Qualification.
 
-![GroundHogDay](img/groundhogday.png)
+![GroundHogDay](/ecw/groundhogday.png "GroundHog Day Challenge")
 
 The goal of this challenge was to find the transcription of a text. To find the transcription, for each step, we can sent two entries and see the result of the output. Once these two tests done we received a sentence and we need to transcript it in letters.
 This challenge was cool and funny this is the reason of this WU.
