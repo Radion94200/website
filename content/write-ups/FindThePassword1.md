@@ -7,11 +7,9 @@ tags = ['crackme','reverse']
 +++
 
 # Challenge description
-{{<table "table table-striped table-bordered">}}
-| Title | Platform | Language | Difficulty |
-| :---: | :---: | :---: | :---: |
-| FindThePassword1 | Unix/Linux | Assembler | 1.0 |
-{{</table>}}
+Title | Platform | Language | Difficulty
+--- | --- | --- | ---
+FindThePassword1 | Unix/Linux | Assembler | 1.0
 
 If you aren't a _beginner_, you will get bored very quickly. If you are a beginner, this will help you grasp basic concepts.
 
