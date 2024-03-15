@@ -22,7 +22,7 @@ So this is a simple crack me to start.
 
 The first step is to `un7z` the file:
 
-```
+```bash
 $ 7z x findthepassword1.tar.7z
 
 7-Zip 23.01 (x64) : Copyright (c) 1999-2023 Igor Pavlov : 2023-06-20
@@ -49,7 +49,7 @@ Compressed: 2344
 
 Once done the second step is to `untar` the file:
 
-```
+```bash
 $ tar -xvf findthepassword1.tar
 findthepassword1/readme.asm
 findthepassword1/findthepassword1
@@ -64,7 +64,7 @@ We get a new folder with 2 files:
 We can start the analyze.
 The first thing is doing a `strings` on the file.
 
-```
+```bash
 $ strings findthepassword1
 + ------------------- +
 | Find the Password 1 |
@@ -85,7 +85,7 @@ The only one string which appear is `8675309`.
 
 We can test to execute the program with this code:
 
-```
+```bash
 $ ./findthepassword1
 + ------------------- +
 | Find the Password 1 |
