@@ -45,7 +45,12 @@ entry0();
 
 We can see there is not a lot of code in this part.
 
-The reverse is done. If we want to print the sentence `Okej` we need to patch the program.
+The reverse is done.
+
+The easier way to get the `Okej` is to create a group with an `id=0xdead`.
+The relaunch the program and it's a win.
+
+The other way to print the sentence `Okej` we need to patch the program.
 There are lots of possibilities to patch it, we can set the value of the register eax to 0xdead, or we can simply doing this step by changing the jne to nop for example.
 The other way is to execute dynamically (via gdb) the program and to set the value of eax to 0xdead then we can see the win sentence.
 
