@@ -1,5 +1,5 @@
 +++
-title = 'LET\'S DEFEND'
+title = 'LETS DEFEND'
 date = 2024-03-25T13:12:00+01:00
 draft = false
 categories = ['info']
